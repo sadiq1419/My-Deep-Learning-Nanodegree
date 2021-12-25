@@ -1,4 +1,4 @@
-# My Udacity DeepLearning Nanodegree:
+# My Udacity Deep Learning Nanodegree:
 This is a storage repository about the projects that I have done while taking Udacity Deep Learning Nanodegree Course.
 
 # Projects:
