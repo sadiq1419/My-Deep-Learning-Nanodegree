@@ -10,5 +10,4 @@ This is a storage repository about the projects that I have done while taking Ud
 
 
 # Certificate:
-![My Certificate](cert.svg)
-[Confirmation Link](https://graduation.udacity.com/confirm/WPADTCH6)
+[![My Certificate](cert.svg)](https://graduation.udacity.com/confirm/WPADTCH6)
